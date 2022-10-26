@@ -1,4 +1,4 @@
-# Unit 3 Homework: Python
+# Python Financial Bank Records and Vote Counting Analysis
 
 Here I will look to analyze finanical records of a bank and help a small, rural town modernize its vote counting process.
 
